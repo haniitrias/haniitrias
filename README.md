@@ -3,7 +3,7 @@
 <h3 align="center">[Data Analyst]</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[haniitrias]&label=Profile%20views&color=0e75b6&style=flat" alt="[haniitrias]" />
+  <img src="https://komarev.com/ghpvc/?username=haniitrias&label=Profile%20views&color=0e75b6&style=flat" alt="haniitrias" />
 </p>
 
 
