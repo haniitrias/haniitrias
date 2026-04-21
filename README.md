@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hanii</h1>
+<h1 align="center">Hi 👋, You can call me Hanii</h1>
 <h3 align="center">[Data Analyst]</h3>
 
 <p align="center">
@@ -33,17 +33,17 @@
 ---
 
 ## 📂 Featured Projects
-- 🚀 **[Project Name]** — [Short description]
-- 🔥 **[Project Name]** — [Short description]
-- 💡 **[Project Name]** — [Short description]
+- 🚀 **[Prediksi Penyakit Tomat Menggunakan CNN]** — [A fun project to learn python]
+- 🔥 **[Web Profile Perusahaan]** — [Web perusahaan yang dibangun menggunakan laravel]
+- 💡 **[SIAKAD Sekolah]** — [Sebuah sistem informasi akademik untuk sekolah berbasis php laravel]
 
 ---
 
 ## 📫 Connect With Me
 <p>
   <a href="[linkedin]"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="[instagram]"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white"></a>
-  <a href="mailto:[email]"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
+  <a href="[haniitrs]"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white"></a>
+  <a href="mailto:[hani.t.septiani@gmail.com]"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 
 ## ⚡ Fun Zone
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=[Typing+Text+Here];[Another+Line];🚀🔥&center=true&width=500&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Seorang+developer+yang+it+banting+setir+ke+data+analyst;Yang+penting,+ngopi+dulu+☕;Ctrl+C+Ctrl+V+is+my+superpower;Coffee+first,+code+later☕&center=true&width=500&height=50">
 </p>
 
 ---
