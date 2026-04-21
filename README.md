@@ -56,12 +56,12 @@
 
 ## ⚡ Fun Zone
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Seorang+developer+yang+it+banting+setir+ke+data+analyst;Yang+penting,+ngopi+dulu+☕;Ctrl+C+Ctrl+V+is+my+superpower;Coffee+first,+code+later☕&center=true&width=500&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Yang+penting,+ngopi+dulu+☕;Ctrl+C+Ctrl+V+is+my+superpower;&center=true&width=500&height=50">
 </p>
 
 ---
 
 <p align="center">
-  ⭐ From <b>[username]</b>
+  ⭐ From <b>haniitrs</b>
 </p>
 ```
