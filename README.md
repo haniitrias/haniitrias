@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=[isi:excel,go,php,laravel,python,mysql]" />
+  <img src="https://skillicons.dev/icons?i=[isi:vscode,go,php,laravel,python,mysql]" />
 </p>
 
 ---
@@ -49,8 +49,8 @@
 ---
 
 ## 🎯 Goals
-- 🥅 **[Short term goal]**
-- 🚀 **[Long term goal]**
+- 🥅 **[Makan es krim]**
+- 🚀 **[Hidup tenang]**
 
 ---
 
