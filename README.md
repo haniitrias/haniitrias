@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=[isi:vscode,go,php,laravel,python,mysql]" />
+  <img src="https://skillicons.dev/icons?i=[isi:html,go,php,laravel,python,mysql]" />
 </p>
 
 ---
